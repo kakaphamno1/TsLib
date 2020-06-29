@@ -1,0 +1,10 @@
+<resources>
+    <string name="unAuthorized">unAuthorized</string>
+    <string name="invalidUserOrPass">invalidUserOrPass</string>
+    <string name="wait">wait</string>
+    <string name="OK">OK</string>
+    <string name="sendError">sendError</string>
+    <string name="cancel">cancel</string>
+    <string name="notFound">not found</string>
+    <string name="token_timeout">Phiên giao dịch hết hạn</string>
+</resources>

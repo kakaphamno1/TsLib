@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">hủy</string>
+    <string name="invalidUserOrPass">invalidUserOrPass</string>
+    <string name="notFound">not found</string>
+    <string name="sendError">sendError</string>
+    <string name="unAuthorized">unAuthorized</string>
+    <string name="wait">đang xử lý</string>
+    <string name="token_timeout">Phiên giao dịch hết hạn</string>
+</resources>
